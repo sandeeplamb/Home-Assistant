@@ -5,10 +5,24 @@ Home-Assistant
 
 ## 01.Create DNS using Duck-DNS
 
-## 02.Configure nginx
+[Configure Duck-DNS](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
 
-## 03.Install Home-Assistant
+## 02.Configure Home-Router
 
-## 04.Configure Home-Assistant
+[Configure Home-Router](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
 
-## 05.Start Home-Assistant
+## 03.Configure Nginx
+
+[Configure Nginx](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+
+## 04.Install Home-Assistant
+
+[Install Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+
+## 05.Configure Home-Assistant
+
+[Configure Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+
+## 06.Start Home-Assistant
+
+[Start Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
