@@ -4,7 +4,7 @@
 
 # Home-Assistant
 
-This is how I use and configured *Home-Assistant* to make my house - SMART.
+This is how I use and configured [Home-Assistant](https://www.home-assistant.io/) to make my house - SMART.
 
 # Steps
 
