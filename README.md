@@ -60,3 +60,8 @@ You don't need to worry if Internet Service Provider changes Router IP after lea
 The maximum latency for which Service will be unavailable is 15 minutes.
 
 One can increase or decrease cron time, as per individual needs.
+
+
+# Further Reading.
+
+More details [here](https://www.home-assistant.io/docs/ecosystem/certificates/lets_encrypt/#3---set-up-a-duckdns-account)
