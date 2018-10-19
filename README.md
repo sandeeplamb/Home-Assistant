@@ -10,11 +10,11 @@ This is how I use and configured *Home-Assistant* to make my house - SMART.
 
 ## 01.Create DNS using Duck-DNS
 
-[Configure Duck-DNS](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+[Configure Duck-DNS](https://github.com/sandeeplamb/Home-Assistant/tree/feature/duck-dns)
 
 ## 02.Configure Home-Router
 
-[Configure Home-Router](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+[Configure Home-Router](https://github.com/sandeeplamb/Home-Assistant/tree/feature/configure-router)
 
 ## 03.Configure Nginx
 
@@ -22,11 +22,11 @@ This is how I use and configured *Home-Assistant* to make my house - SMART.
 
 ## 04.Install Home-Assistant
 
-[Install Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+[Install Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-install)
 
 ## 05.Configure Home-Assistant
 
-[Configure Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+[Configure Home-Assistant](https://github.com/sandeeplamb/Home-Assistant/tree/feature//home-assistant-configure)
 
 ## 06.Start Home-Assistant
 
