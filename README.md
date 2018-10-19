@@ -18,7 +18,7 @@ This is how I use and configured *Home-Assistant* to make my house - SMART.
 
 ## 03.Configure Nginx
 
-[Configure Nginx](https://github.com/sandeeplamb/Home-Assistant/tree/feature/home-assistant-run)
+[Configure Nginx](https://github.com/sandeeplamb/Home-Assistant/tree/feature/nginx-setup)
 
 ## 04.Install Home-Assistant
 
