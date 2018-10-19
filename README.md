@@ -5,7 +5,7 @@
 
 # Install Home-Assistant
 
-[Home-Assistant](https://www.home-assistant.io/) installation can be found [here](https://www.home-assistant.io/getting-started/).
+[Home-Assistant](https://www.home-assistant.io/) can be [installed](https://www.home-assistant.io/getting-started/) in many ways.
 
 It's very straight-forward and depends where you want to install.
 
