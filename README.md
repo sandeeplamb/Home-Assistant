@@ -1,9 +1,8 @@
-# Home-Assistant
-
 <p align="center">
   <img src="img/hass.png"> </image>
 </p>
 
+# Home-Assistant
 
 This is how I use and configured *Home-Assistant* to make my house - SMART.
 
