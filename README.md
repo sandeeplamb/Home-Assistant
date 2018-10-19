@@ -1,5 +1,6 @@
 # Home-Assistant
-Home-Assistant
+
+This is how I use and configured *Home-Assistant* to make my house - SMART.
 
 # Steps
 
